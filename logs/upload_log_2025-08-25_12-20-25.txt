@@ -4,3 +4,21 @@ Folder: /Users/simonb/Desktop/SIP
 Log ID: 2025-08-25_12-20-25
 -------------------------
 📦 Running: git add .
+add '.DS_Store'
+add 'Actualizacion_SIP.command'
+add 'upload_log_2025-08-25_12-18-40.txt'
+add 'logs/upload_log_2025-08-25_12-20-25.txt'
+Do you want to add a custom commit message? (y/n)
+Enter your custom commit message:
+📝 Committing with message:
+Testing logs folder | 2025-08-25 12:20:25 | Changed: .DS_Store Actualizacion_SIP.command logs/upload_log_2025-08-25_12-20-25.txt upload_log_2025-08-25_12-18-40.txt 
+[main 41efa91] Testing logs folder | 2025-08-25 12:20:25 | Changed: .DS_Store Actualizacion_SIP.command logs/upload_log_2025-08-25_12-20-25.txt upload_log_2025-08-25_12-18-40.txt
+ 4 files changed, 30 insertions(+), 1 deletion(-)
+ create mode 100644 logs/upload_log_2025-08-25_12-20-25.txt
+To https://github.com/SimonBoteroA-Student/SIP.git
+   ef0cce6..41efa91  main -> main
+✅ Upload successful!
+📜 Commit hash: 41efa91193acaf4c1115088614830c3ff80c9535
+🗂 Logs saved as:
+   - /Users/simonb/Desktop/SIP/logs/upload_log_2025-08-25_12-20-25.txt
+   - /Users/simonb/SIP_COPY/Logs/github_log_2025-08-25_12-20-25.txt
