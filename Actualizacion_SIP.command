@@ -10,7 +10,7 @@ cd "$FOLDER" || exit
 RUNSTAMP=$(date '+%Y-%m-%d_%H-%M-%S')   # Safe timestamp for filenames
 READABLESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
 
-SESSION_LOG="$FOLDER/upload_log_$RUNSTAMP.txt"
+SESSION_LOG="$FOLDER/logs/upload_log_$RUNSTAMP.txt"
 OUTSIDE_LOG="$OUTSIDE_DIR/github_log_$RUNSTAMP.txt"
 
 # Start logs for this run

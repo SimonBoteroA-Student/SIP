@@ -4,3 +4,26 @@ Folder: /Users/simonb/Desktop/SIP
 Log ID: 2025-08-25_12-18-40
 -------------------------
 📦 Running: git add .
+add 'upload_log_2025-08-25_12-17-52.txt'
+add 'upload_log_2025-08-25_12-18-40.txt'
+Do you want to add a custom commit message? (y/n)
+Enter your custom commit message:
+📝 Committing with message:
+First commit, testing the script | 2025-08-25 12:18:40 | Changed: .DS_Store Actualizacion_SIP.command Articulos/.DS_Store Articulos/La mision kemmerer y el control estatal Daniel Sarmiento Pavas.pdf Articulos/texto.txt Propuesta de Investigacion/.DS_Store Propuesta de Investigacion/SIP.docx upload_log_2025-08-25_12-17-52.txt upload_log_2025-08-25_12-18-40.txt 
+[main ef0cce6] First commit, testing the script | 2025-08-25 12:18:40 | Changed: .DS_Store Actualizacion_SIP.command Articulos/.DS_Store Articulos/La mision kemmerer y el control estatal Daniel Sarmiento Pavas.pdf Articulos/texto.txt Propuesta de Investigacion/.DS_Store Propuesta de Investigacion/SIP.docx upload_log_2025-08-25_12-17-52.txt upload_log_2025-08-25_12-18-40.txt
+ 9 files changed, 89 insertions(+), 2 deletions(-)
+ create mode 100755 Actualizacion_SIP.command
+ create mode 100644 Articulos/.DS_Store
+ create mode 100644 Articulos/La mision kemmerer y el control estatal Daniel Sarmiento Pavas.pdf
+ delete mode 100644 Articulos/texto.txt
+ create mode 100644 Propuesta de Investigacion/.DS_Store
+ create mode 100644 Propuesta de Investigacion/SIP.docx
+ create mode 100644 upload_log_2025-08-25_12-17-52.txt
+ create mode 100644 upload_log_2025-08-25_12-18-40.txt
+To https://github.com/SimonBoteroA-Student/SIP.git
+ * [new branch]      main -> main
+✅ Upload successful!
+📜 Commit hash: ef0cce60bcec09ed06600b505057f8bb1404f76f
+🗂 Logs saved as:
+   - /Users/simonb/Desktop/SIP/upload_log_2025-08-25_12-18-40.txt
+   - /Users/simonb/SIP_COPY/Logs/github_log_2025-08-25_12-18-40.txt
