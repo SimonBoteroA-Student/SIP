@@ -1,0 +1,16 @@
+=== Git Upload Session ===
+Date: 2025-08-25 12:17:52
+Folder: /Users/simonb/Desktop/SIP
+Log ID: 2025-08-25_12-17-52
+-------------------------
+📦 Running: git add .
+add '.DS_Store'
+remove 'Articulos/texto.txt'
+add 'Actualizacion_SIP.command'
+add 'Articulos/.DS_Store'
+add 'Articulos/La mision kemmerer y el control estatal Daniel Sarmiento Pavas.pdf'
+add 'Propuesta de Investigacion/.DS_Store'
+add 'Propuesta de Investigacion/SIP.docx'
+add 'upload_log_2025-08-25_12-17-52.txt'
+Do you want to add a custom commit message? (y/n)
+Enter your custom commit message:
