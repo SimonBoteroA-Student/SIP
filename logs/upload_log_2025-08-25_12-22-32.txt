@@ -4,3 +4,27 @@ Folder: /Users/simonb/Desktop/SIP
 Log ID: 2025-08-25_12-22-32
 -------------------------
 📦 Running: git add .
+add '.DS_Store'
+add 'Propuesta de Investigacion/SIP.docx'
+add 'logs/upload_log_2025-08-25_12-20-25.txt'
+remove 'upload_log_2025-08-25_12-17-52.txt'
+remove 'upload_log_2025-08-25_12-18-40.txt'
+add 'logs/upload_log_2025-08-25_12-17-52.txt'
+add 'logs/upload_log_2025-08-25_12-18-40.txt'
+add 'logs/upload_log_2025-08-25_12-22-32.txt'
+Do you want to add a custom commit message? (y/n)
+Enter your custom commit message:
+📝 Committing with message:
+updating SIP copy from word | 2025-08-25 12:22:32 | Changed: .DS_Store Propuesta de Investigacion/SIP.docx logs/upload_log_2025-08-25_12-17-52.txt logs/upload_log_2025-08-25_12-18-40.txt logs/upload_log_2025-08-25_12-20-25.txt logs/upload_log_2025-08-25_12-22-32.txt 
+[main 981720f] updating SIP copy from word | 2025-08-25 12:22:32 | Changed: .DS_Store Propuesta de Investigacion/SIP.docx logs/upload_log_2025-08-25_12-17-52.txt logs/upload_log_2025-08-25_12-18-40.txt logs/upload_log_2025-08-25_12-20-25.txt logs/upload_log_2025-08-25_12-22-32.txt
+ 6 files changed, 24 insertions(+)
+ rename upload_log_2025-08-25_12-17-52.txt => logs/upload_log_2025-08-25_12-17-52.txt (100%)
+ rename upload_log_2025-08-25_12-18-40.txt => logs/upload_log_2025-08-25_12-18-40.txt (100%)
+ create mode 100644 logs/upload_log_2025-08-25_12-22-32.txt
+To https://github.com/SimonBoteroA-Student/SIP.git
+   41efa91..981720f  main -> main
+✅ Upload successful!
+📜 Commit hash: 981720f2184340e76cd8657a13031b04d8fc4e18
+🗂 Logs saved as:
+   - /Users/simonb/Desktop/SIP/logs/upload_log_2025-08-25_12-22-32.txt
+   - /Users/simonb/SIP_COPY/Logs/github_log_2025-08-25_12-22-32.txt
