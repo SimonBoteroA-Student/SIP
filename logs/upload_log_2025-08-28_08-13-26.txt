@@ -4,3 +4,29 @@ Folder: /Users/simonb/Desktop/SIP
 Log ID: 2025-08-28_08-13-26
 -------------------------
 📦 Running: git add .
+add '.DS_Store'
+add 'Articulos/.DS_Store'
+add 'logs/upload_log_2025-08-25_12-22-32.txt'
+add 'Articulos/La corrupcion en Colombia un analisis integral Ayala-Garcia et al.pdf'
+add 'Documentos Enviados/Rubri. propuesta inves. español.docx'
+add 'Propuesta de Investigacion/Rubri. propuesta inves. español.docx'
+add 'Propuesta de Investigacion/SIP Propuesta Investigacion.docx'
+add 'logs/upload_log_2025-08-28_08-13-26.txt'
+Do you want to add a custom commit message? (y/n)
+Enter your custom commit message:
+📝 Committing with message:
+Propuesta de investigacion entrega final | 2025-08-28 08:13:26 | Changed: .DS_Store Articulos/.DS_Store Articulos/La corrupcion en Colombia un analisis integral Ayala-Garcia et al.pdf "Documentos Enviados/Rubri. propuesta inves. espa\303\261ol.docx" "Propuesta de Investigacion/Rubri. propuesta inves. espa\303\261ol.docx" Propuesta de Investigacion/SIP Propuesta Investigacion.docx logs/upload_log_2025-08-25_12-22-32.txt logs/upload_log_2025-08-28_08-13-26.txt 
+[main b19dfe1] Propuesta de investigacion entrega final | 2025-08-28 08:13:26 | Changed: .DS_Store Articulos/.DS_Store Articulos/La corrupcion en Colombia un analisis integral Ayala-Garcia et al.pdf "Documentos Enviados/Rubri. propuesta inves. espa\303\261ol.docx" "Propuesta de Investigacion/Rubri. propuesta inves. espa\303\261ol.docx" Propuesta de Investigacion/SIP Propuesta Investigacion.docx logs/upload_log_2025-08-25_12-22-32.txt logs/upload_log_2025-08-28_08-13-26.txt
+ 8 files changed, 30 insertions(+)
+ create mode 100644 Articulos/La corrupcion en Colombia un analisis integral Ayala-Garcia et al.pdf
+ create mode 100644 "Documentos Enviados/Rubri. propuesta inves. espa\303\261ol.docx"
+ create mode 100644 "Propuesta de Investigacion/Rubri. propuesta inves. espa\303\261ol.docx"
+ create mode 100644 Propuesta de Investigacion/SIP Propuesta Investigacion.docx
+ create mode 100644 logs/upload_log_2025-08-28_08-13-26.txt
+To https://github.com/SimonBoteroA-Student/SIP.git
+   981720f..b19dfe1  main -> main
+✅ Upload successful!
+📜 Commit hash: b19dfe14c5d560467437c9c290a5c626637dac12
+🗂 Logs saved as:
+   - /Users/simonb/Desktop/SIP/logs/upload_log_2025-08-28_08-13-26.txt
+   - /Users/simonb/SIP_COPY/Logs/github_log_2025-08-28_08-13-26.txt
