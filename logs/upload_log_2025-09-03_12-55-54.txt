@@ -4,3 +4,26 @@ Folder: /Users/simonb/Desktop/SIP
 Log ID: 2025-09-03_12-55-54
 -------------------------
 📦 Running: git add .
+add '.DS_Store'
+remove 'Antecedentes/~$P Tarea Antecedentes.docx'
+add 'Articulos/.DS_Store'
+add 'logs/upload_log_2025-09-02_06-36-24.txt'
+add 'Articulos/Libros IA/.DS_Store'
+add 'Articulos/Libros IA/Anil Ananthaswamy - Why Machines Learn The Elegant Math Behind Modern AI (2024, Penguin Publishing Group) - libgen.li.epub'
+add 'Articulos/Libros IA/Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent System (2023, O'Reilly Media, Inc.) - libgen.li.pdf'
+add 'Articulos/Libros IA/Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent System (2022, O'Reilly Media) - libgen.li.epub'
+add 'Articulos/Libros IA/Machine Learning ( etc.) (z-lib.org).pdf'
+add 'logs/upload_log_2025-09-03_12-55-54.txt'
+Do you want to add a custom commit message? (y/n)
+Enter your custom commit message:
+📝 Committing with message:
+Added AI books; commit before starting new document for citations homework | 2025-09-03 12:55:54 | Changed: .DS_Store Antecedentes/~$P Tarea Antecedentes.docx Articulos/.DS_Store Articulos/Libros IA/.DS_Store Articulos/Libros IA/Anil Ananthaswamy - Why Machines Learn The Elegant Math Behind Modern AI (2024, Penguin Publishing Group) - libgen.li.epub "Articulos/Libros IA/Aur\303\251lien G\303\251ron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent System (2023, O'Reilly Media, Inc.) - libgen.li.pdf" "Articulos/Libros IA/Aur\303\251lien G\303\251ron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent System (2022, O'Reilly Media) - libgen.li.epub" Articulos/Libros IA/Machine Learning ( etc.) (z-lib.org).pdf logs/upload_log_2025-09-02_06-36-24.txt logs/upload_log_2025-09-03_12-55-54.txt 
+[main 9263f07] Added AI books; commit before starting new document for citations homework | 2025-09-03 12:55:54 | Changed: .DS_Store Antecedentes/~$P Tarea Antecedentes.docx Articulos/.DS_Store Articulos/Libros IA/.DS_Store Articulos/Libros IA/Anil Ananthaswamy - Why Machines Learn The Elegant Math Behind Modern AI (2024, Penguin Publishing Group) - libgen.li.epub "Articulos/Libros IA/Aur\303\251lien G\303\251ron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent System (2023, O'Reilly Media, Inc.) - libgen.li.pdf" "Articulos/Libros IA/Aur\303\251lien G\303\251ron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent System (2022, O'Reilly Media) - libgen.li.epub" Articulos/Libros IA/Machine Learning ( etc.) (z-lib.org).pdf logs/upload_log_2025-09-02_06-36-24.txt logs/upload_log_2025-09-03_12-55-54.txt
+ 10 files changed, 43 insertions(+)
+ delete mode 100644 Antecedentes/~$P Tarea Antecedentes.docx
+ create mode 100644 Articulos/Libros IA/.DS_Store
+ create mode 100644 Articulos/Libros IA/Anil Ananthaswamy - Why Machines Learn The Elegant Math Behind Modern AI (2024, Penguin Publishing Group) - libgen.li.epub
+ create mode 100644 "Articulos/Libros IA/Aur\303\251lien G\303\251ron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent System (2023, O'Reilly Media, Inc.) - libgen.li.pdf"
+ create mode 100644 "Articulos/Libros IA/Aur\303\251lien G\303\251ron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent System (2022, O'Reilly Media) - libgen.li.epub"
+ create mode 100644 Articulos/Libros IA/Machine Learning ( etc.) (z-lib.org).pdf
+ create mode 100644 logs/upload_log_2025-09-03_12-55-54.txt
