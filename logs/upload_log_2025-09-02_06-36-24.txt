@@ -4,3 +4,40 @@ Folder: /Users/simonb/Desktop/SIP
 Log ID: 2025-09-02_06-36-24
 -------------------------
 📦 Running: git add .
+add '.DS_Store'
+add 'Propuesta de Investigacion/.DS_Store'
+remove 'Propuesta de Investigacion/SIP.docx'
+add 'logs/upload_log_2025-08-28_08-13-26.txt'
+add 'Antecedentes/.DS_Store'
+add 'Antecedentes/Antecedentes alias'
+add 'Antecedentes/SIP Tarea Antecedentes.docx'
+add 'Antecedentes/~$P Tarea Antecedentes.docx'
+add 'Antecedentes/~$P copy.docx'
+add 'Documentos Enviados/.DS_Store'
+add 'Documentos Enviados/Antecedentes/Antecedentes de investigación doc nuevo.docx'
+add 'Documentos Enviados/Antecedentes/Links hipótesis y antecedentes.docx'
+add 'SIP.docx'
+add 'logs/upload_log_2025-09-02_06-36-24.txt'
+Do you want to add a custom commit message? (y/n)
+Enter your custom commit message:
+📝 Committing with message:
+Antecedentes homework finished | 2025-09-02 06:36:24 | Changed: .DS_Store Antecedentes/.DS_Store Antecedentes/Antecedentes alias Antecedentes/SIP Tarea Antecedentes.docx Antecedentes/~$P Tarea Antecedentes.docx Antecedentes/~$P copy.docx Documentos Enviados/.DS_Store "Documentos Enviados/Antecedentes/Antecedentes de investigaci\303\263n doc nuevo.docx" "Documentos Enviados/Antecedentes/Links hip\303\263tesis y antecedentes.docx" Propuesta de Investigacion/.DS_Store SIP.docx logs/upload_log_2025-08-28_08-13-26.txt logs/upload_log_2025-09-02_06-36-24.txt 
+[main 9e3f113] Antecedentes homework finished | 2025-09-02 06:36:24 | Changed: .DS_Store Antecedentes/.DS_Store Antecedentes/Antecedentes alias Antecedentes/SIP Tarea Antecedentes.docx Antecedentes/~$P Tarea Antecedentes.docx Antecedentes/~$P copy.docx Documentos Enviados/.DS_Store "Documentos Enviados/Antecedentes/Antecedentes de investigaci\303\263n doc nuevo.docx" "Documentos Enviados/Antecedentes/Links hip\303\263tesis y antecedentes.docx" Propuesta de Investigacion/.DS_Store SIP.docx logs/upload_log_2025-08-28_08-13-26.txt logs/upload_log_2025-09-02_06-36-24.txt
+ 13 files changed, 32 insertions(+)
+ create mode 100644 Antecedentes/.DS_Store
+ create mode 100644 Antecedentes/Antecedentes alias
+ create mode 100644 Antecedentes/SIP Tarea Antecedentes.docx
+ create mode 100644 Antecedentes/~$P Tarea Antecedentes.docx
+ create mode 100644 Antecedentes/~$P copy.docx
+ create mode 100644 Documentos Enviados/.DS_Store
+ create mode 100644 "Documentos Enviados/Antecedentes/Antecedentes de investigaci\303\263n doc nuevo.docx"
+ create mode 100644 "Documentos Enviados/Antecedentes/Links hip\303\263tesis y antecedentes.docx"
+ rename Propuesta de Investigacion/SIP.docx => SIP.docx (100%)
+ create mode 100644 logs/upload_log_2025-09-02_06-36-24.txt
+To https://github.com/SimonBoteroA-Student/SIP.git
+   b19dfe1..9e3f113  main -> main
+✅ Upload successful!
+📜 Commit hash: 9e3f1132fe342647bd098ccf63847dbf41179784
+🗂 Logs saved as:
+   - /Users/simonb/Desktop/SIP/logs/upload_log_2025-09-02_06-36-24.txt
+   - /Users/simonb/SIP_COPY/Logs/github_log_2025-09-02_06-36-24.txt
