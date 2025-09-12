@@ -1,0 +1,57 @@
+=== Git Upload Session ===
+Date: 2025-09-12 08:24:39
+Folder: /Users/simonb/Desktop/SIP
+Log ID: 2025-09-12_08-24-39
+-------------------------
+📦 Running: git add .
+error: 'Articulos/Scraper/' does not have a commit checked out
+fatal: adding files failed
+add '.DS_Store'
+add 'Articulos/.DS_Store'
+add 'Articulos/Libros IA/.DS_Store'
+add 'Documentos Enviados/.DS_Store'
+add 'logs/upload_log_2025-09-03_12-58-03.txt'
+add 'Articulos/33-The-Role-of-Blockchain-Technologies.pdf'
+add 'Articulos/Analisis de Indicadores financieros.pdf'
+add 'Articulos/Dialnet-EficaciaDelSistemaElectronicoDeContratacionPublica-9151162.pdf'
+add 'Articulos/Evolution of blockchain consensus algorithms- a review on the latest milestones of blockchain consensus algorithms Ziad Hussein1* , May A. Salama1 and Sahar A. El‑Rahman.pdf'
+add 'Articulos/Fiscalia UNODC Corrupcion.pdf'
+add 'Articulos/Inteligencia Artificial para Detectar Corrupci´on en la Administraci´on P´ublica Municipal de Colombia Kevin Steven Mojica Mu˜noz.pdf'
+add 'Articulos/Jun Journal of Open Innovation- Technology, Market, and Complexity  (2018) .pdf'
+add 'Articulos/Libros IA/Joel Grus - Data Science from Scratch_ First Principles with Python (2019, O’Reilly Media) - libgen.li.epub'
+add 'Articulos/Modelo para definir índices de corrupción en convocatorias de contratación en Colombia basado en Big Data y procesamiento del lenguaje natural.pdf'
+Do you want to add a custom commit message? (y/n)
+Enter your custom commit message:
+📝 Committing with message:
+Added books, commit before updating justification and questions based on adris feedback | 2025-09-12 08:24:39 | Changed: 
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .DS_Store
+	modified:   Articulos/.DS_Store
+	modified:   Articulos/Libros IA/.DS_Store
+	modified:   Documentos Enviados/.DS_Store
+	modified:   logs/upload_log_2025-09-03_12-58-03.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Articulos/33-The-Role-of-Blockchain-Technologies.pdf
+	Articulos/Analisis de Indicadores financieros.pdf
+	Articulos/Dialnet-EficaciaDelSistemaElectronicoDeContratacionPublica-9151162.pdf
+	"Articulos/Evolution of blockchain consensus algorithms- a review on the latest milestones of blockchain consensus algorithms Ziad Hussein1* , May A. Salama1 and Sahar A. El\342\200\221Rahman.pdf"
+	Articulos/Fiscalia UNODC Corrupcion.pdf
+	"Articulos/Inteligencia Artificial para Detectar Corrupci\302\264on en la Administraci\302\264on P\302\264ublica Municipal de Colombia Kevin Steven Mojica Mu\313\234noz.pdf"
+	Articulos/Jun Journal of Open Innovation- Technology, Market, and Complexity  (2018) .pdf
+	"Articulos/Libros IA/Joel Grus - Data Science from Scratch_ First Principles with Python (2019, O\342\200\231Reilly Media) - libgen.li.epub"
+	"Articulos/Modelo para definir \303\255ndices de corrupci\303\263n en convocatorias de contrataci\303\263n en Colombia basado en Big Data y procesamiento del lenguaje natural.pdf"
+	Articulos/Scraper/
+	Articulos/radiografia__corrupcion_22_en.pdf
+	Articulos/radiografia_corrupcion_22.pdf
+	Articulos/s13677-024-00697-7.pdf
+	Articulos/u and Zou EURASIP Journal on Wireless Communications and Networking  (2019).pdf
+	"Documentos Enviados/Manual de Normas APA 7ma edici\303\263n.pdf"
+	logs/upload_log_2025-09-12_08-24-39.txt
+	word_shortcuts.jpg
+
+no changes added to commit (use "git add" and/or "git commit -a")

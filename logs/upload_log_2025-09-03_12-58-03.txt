@@ -4,3 +4,12 @@ Folder: /Users/simonb/Desktop/SIP
 Log ID: 2025-09-03_12-58-03
 -------------------------
 📦 Running: git add .
+add 'logs/upload_log_2025-09-03_12-55-54.txt'
+add 'logs/upload_log_2025-09-03_12-58-03.txt'
+Do you want to add a custom commit message? (y/n)
+Enter your custom commit message:
+📝 Committing with message:
+commit before new class about citations | 2025-09-03 12:58:03 | Changed: logs/upload_log_2025-09-03_12-55-54.txt logs/upload_log_2025-09-03_12-58-03.txt 
+[main 475a755] commit before new class about citations | 2025-09-03 12:58:03 | Changed: logs/upload_log_2025-09-03_12-55-54.txt logs/upload_log_2025-09-03_12-58-03.txt
+ 2 files changed, 29 insertions(+)
+ create mode 100644 logs/upload_log_2025-09-03_12-58-03.txt

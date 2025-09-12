@@ -1,0 +1,6 @@
+=== Git Upload Session ===
+Date: 2025-09-12 08:27:18
+Folder: /Users/simonb/Desktop/SIP
+Log ID: 2025-09-12_08-27-18
+-------------------------
+📦 Running: git add .
