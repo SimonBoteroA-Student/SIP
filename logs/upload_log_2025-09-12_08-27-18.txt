@@ -4,3 +4,55 @@ Folder: /Users/simonb/Desktop/SIP
 Log ID: 2025-09-12_08-27-18
 -------------------------
 📦 Running: git add .
+add '.DS_Store'
+add 'Articulos/.DS_Store'
+add 'Articulos/Libros IA/.DS_Store'
+add 'Documentos Enviados/.DS_Store'
+add 'logs/upload_log_2025-09-03_12-58-03.txt'
+add 'Articulos/33-The-Role-of-Blockchain-Technologies.pdf'
+add 'Articulos/Analisis de Indicadores financieros.pdf'
+add 'Articulos/Dialnet-EficaciaDelSistemaElectronicoDeContratacionPublica-9151162.pdf'
+add 'Articulos/Evolution of blockchain consensus algorithms- a review on the latest milestones of blockchain consensus algorithms Ziad Hussein1* , May A. Salama1 and Sahar A. El‑Rahman.pdf'
+add 'Articulos/Fiscalia UNODC Corrupcion.pdf'
+add 'Articulos/Inteligencia Artificial para Detectar Corrupci´on en la Administraci´on P´ublica Municipal de Colombia Kevin Steven Mojica Mu˜noz.pdf'
+add 'Articulos/Jun Journal of Open Innovation- Technology, Market, and Complexity  (2018) .pdf'
+add 'Articulos/Libros IA/Joel Grus - Data Science from Scratch_ First Principles with Python (2019, O’Reilly Media) - libgen.li.epub'
+add 'Articulos/Modelo para definir índices de corrupción en convocatorias de contratación en Colombia basado en Big Data y procesamiento del lenguaje natural.pdf'
+add 'Articulos/radiografia__corrupcion_22_en.pdf'
+add 'Articulos/radiografia_corrupcion_22.pdf'
+add 'Articulos/s13677-024-00697-7.pdf'
+add 'Articulos/u and Zou EURASIP Journal on Wireless Communications and Networking  (2019).pdf'
+add 'Documentos Enviados/Manual de Normas APA 7ma edición.pdf'
+add 'logs/upload_log_2025-09-12_08-24-39.txt'
+add 'logs/upload_log_2025-09-12_08-27-18.txt'
+add 'word_shortcuts.jpg'
+Do you want to add a custom commit message? (y/n)
+Enter your custom commit message:
+📝 Committing with message:
+Added books, commit before updating justification and questions based on adris feedback | 2025-09-12 08:27:18 | Changed: .DS_Store Articulos/.DS_Store Articulos/33-The-Role-of-Blockchain-Technologies.pdf Articulos/Analisis de Indicadores financieros.pdf Articulos/Dialnet-EficaciaDelSistemaElectronicoDeContratacionPublica-9151162.pdf "Articulos/Evolution of blockchain consensus algorithms- a review on the latest milestones of blockchain consensus algorithms Ziad Hussein1* , May A. Salama1 and Sahar A. El\342\200\221Rahman.pdf" Articulos/Fiscalia UNODC Corrupcion.pdf "Articulos/Inteligencia Artificial para Detectar Corrupci\302\264on en la Administraci\302\264on P\302\264ublica Municipal de Colombia Kevin Steven Mojica Mu\313\234noz.pdf" Articulos/Jun Journal of Open Innovation- Technology, Market, and Complexity  (2018) .pdf Articulos/Libros IA/.DS_Store "Articulos/Libros IA/Joel Grus - Data Science from Scratch_ First Principles with Python (2019, O\342\200\231Reilly Media) - libgen.li.epub" "Articulos/Modelo para definir \303\255ndices de corrupci\303\263n en convocatorias de contrataci\303\263n en Colombia basado en Big Data y procesamiento del lenguaje natural.pdf" Articulos/radiografia__corrupcion_22_en.pdf Articulos/radiografia_corrupcion_22.pdf Articulos/s13677-024-00697-7.pdf Articulos/u and Zou EURASIP Journal on Wireless Communications and Networking  (2019).pdf Documentos Enviados/.DS_Store "Documentos Enviados/Manual de Normas APA 7ma edici\303\263n.pdf" logs/upload_log_2025-09-03_12-58-03.txt logs/upload_log_2025-09-12_08-24-39.txt logs/upload_log_2025-09-12_08-27-18.txt word_shortcuts.jpg 
+[main 61ea02f] Added books, commit before updating justification and questions based on adris feedback | 2025-09-12 08:27:18 | Changed: .DS_Store Articulos/.DS_Store Articulos/33-The-Role-of-Blockchain-Technologies.pdf Articulos/Analisis de Indicadores financieros.pdf Articulos/Dialnet-EficaciaDelSistemaElectronicoDeContratacionPublica-9151162.pdf "Articulos/Evolution of blockchain consensus algorithms- a review on the latest milestones of blockchain consensus algorithms Ziad Hussein1* , May A. Salama1 and Sahar A. El\342\200\221Rahman.pdf" Articulos/Fiscalia UNODC Corrupcion.pdf "Articulos/Inteligencia Artificial para Detectar Corrupci\302\264on en la Administraci\302\264on P\302\264ublica Municipal de Colombia Kevin Steven Mojica Mu\313\234noz.pdf" Articulos/Jun Journal of Open Innovation- Technology, Market, and Complexity  (2018) .pdf Articulos/Libros IA/.DS_Store "Articulos/Libros IA/Joel Grus - Data Science from Scratch_ First Principles with Python (2019, O\342\200\231Reilly Media) - libgen.li.epub" "Articulos/Modelo para definir \303\255ndices de corrupci\303\263n en convocatorias de contrataci\303\263n en Colombia basado en Big Data y procesamiento del lenguaje natural.pdf" Articulos/radiografia__corrupcion_22_en.pdf Articulos/radiografia_corrupcion_22.pdf Articulos/s13677-024-00697-7.pdf Articulos/u and Zou EURASIP Journal on Wireless Communications and Networking  (2019).pdf Documentos Enviados/.DS_Store "Documentos Enviados/Manual de Normas APA 7ma edici\303\263n.pdf" logs/upload_log_2025-09-03_12-58-03.txt logs/upload_log_2025-09-12_08-24-39.txt logs/upload_log_2025-09-12_08-27-18.txt word_shortcuts.jpg
+ 22 files changed, 51626 insertions(+)
+ create mode 100644 Articulos/33-The-Role-of-Blockchain-Technologies.pdf
+ create mode 100644 Articulos/Analisis de Indicadores financieros.pdf
+ create mode 100644 Articulos/Dialnet-EficaciaDelSistemaElectronicoDeContratacionPublica-9151162.pdf
+ create mode 100644 "Articulos/Evolution of blockchain consensus algorithms- a review on the latest milestones of blockchain consensus algorithms Ziad Hussein1* , May A. Salama1 and Sahar A. El\342\200\221Rahman.pdf"
+ create mode 100644 Articulos/Fiscalia UNODC Corrupcion.pdf
+ create mode 100644 "Articulos/Inteligencia Artificial para Detectar Corrupci\302\264on en la Administraci\302\264on P\302\264ublica Municipal de Colombia Kevin Steven Mojica Mu\313\234noz.pdf"
+ create mode 100644 Articulos/Jun Journal of Open Innovation- Technology, Market, and Complexity  (2018) .pdf
+ create mode 100644 "Articulos/Libros IA/Joel Grus - Data Science from Scratch_ First Principles with Python (2019, O\342\200\231Reilly Media) - libgen.li.epub"
+ create mode 100644 "Articulos/Modelo para definir \303\255ndices de corrupci\303\263n en convocatorias de contrataci\303\263n en Colombia basado en Big Data y procesamiento del lenguaje natural.pdf"
+ create mode 100644 Articulos/radiografia__corrupcion_22_en.pdf
+ create mode 100644 Articulos/radiografia_corrupcion_22.pdf
+ create mode 100644 Articulos/s13677-024-00697-7.pdf
+ create mode 100644 Articulos/u and Zou EURASIP Journal on Wireless Communications and Networking  (2019).pdf
+ create mode 100644 "Documentos Enviados/Manual de Normas APA 7ma edici\303\263n.pdf"
+ create mode 100644 logs/upload_log_2025-09-12_08-24-39.txt
+ create mode 100644 logs/upload_log_2025-09-12_08-27-18.txt
+ create mode 100644 word_shortcuts.jpg
+To https://github.com/SimonBoteroA-Student/SIP.git
+   9e3f113..61ea02f  main -> main
+✅ Upload successful!
+📜 Commit hash: 61ea02f3d31aab70623f6a3b24e2b0191e775715
+🗂 Logs saved as:
+   - /Users/simonb/Desktop/SIP/logs/upload_log_2025-09-12_08-27-18.txt
+   - /Users/simonb/SIP_COPY/Logs/github_log_2025-09-12_08-27-18.txt
