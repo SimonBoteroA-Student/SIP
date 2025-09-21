@@ -4,3 +4,47 @@ Folder: /Users/simonb/Desktop/SIP
 Log ID: 2025-09-20_12-16-53
 -------------------------
 📦 Running: git add .
+add '.DS_Store'
+add 'Antecedentes/.DS_Store'
+remove 'Antecedentes/Antecedentes alias'
+add 'Articulos/.DS_Store'
+add 'Articulos/Corrupcion en Contratacion/.DS_Store'
+add 'Articulos/Data Analysis/.DS_Store'
+add 'Articulos/Tecnologia en Corrupcion/.DS_Store'
+add 'Documentos Enviados/.DS_Store'
+add 'logs/upload_log_2025-09-14_10-30-45.txt'
+add 'Antecedentes/Documentos Antecedentes'
+add 'Antecedentes/Formato Tarea Banco de Citas.docx'
+add 'Antecedentes/SIP_Tarea_Banco_De_Citas.docx'
+add 'Antecedentes/~$P_Tarea_Banco_De_Citas.docx'
+add 'Antecedentes/~$rea Banco de Citas.docx'
+add 'Articulos/Corrupcion en Contratacion/Díaz Jimenez, M C (2020) Limitaciones a la competencia en procesos de contratacion publica de vias primarias Universidad de los Andes, Tesis de Maestria.pdf'
+add 'Articulos/Data Analysis/Effendi, F, & Chattopadhyay, A (2024) Privacy-Preserving Graph-Based Machine Learning with Fully Homomorphic Encryption for Collaborative Anti Money Laundering.pdf'
+add 'Articulos/Tecnologia en Corrupcion/Ash, Elliott and Galletta, Sergio and Giommoni, Tommaso, A Machine Learning Approach to Analyze and Support Anti-Corruption Policy (June 17, 2021).pdf'
+add 'Articulos/Tecnologia en Corrupcion/Detección de contratos públicos susceptibles a adiciones.pdf'
+add 'PROMPTS CHATGPT.docx'
+add 'logs/upload_log_2025-09-20_12-16-53.txt'
+Do you want to add a custom commit message? (y/n)
+Enter your custom commit message:
+📝 Committing with message:
+Actualizacion nombres y tarea banco de citas final antes de empezar los anteceedentes | 2025-09-20 12:16:53 | Changed: .DS_Store Antecedentes/.DS_Store Antecedentes/Documentos Antecedentes Antecedentes/Formato Tarea Banco de Citas.docx Antecedentes/SIP_Tarea_Banco_De_Citas.docx Antecedentes/~$P_Tarea_Banco_De_Citas.docx Antecedentes/~$rea Banco de Citas.docx Articulos/.DS_Store Articulos/Corrupcion en Contratacion/.DS_Store "Articulos/Corrupcion en Contratacion/D\303\255az Jimenez, M C (2020) Limitaciones a la competencia en procesos de contratacion publica de vias primarias Universidad de los Andes, Tesis de Maestria.pdf" Articulos/Data Analysis/.DS_Store Articulos/Data Analysis/Effendi, F, & Chattopadhyay, A (2024) Privacy-Preserving Graph-Based Machine Learning with Fully Homomorphic Encryption for Collaborative Anti Money Laundering.pdf Articulos/Tecnologia en Corrupcion/.DS_Store Articulos/Tecnologia en Corrupcion/Ash, Elliott and Galletta, Sergio and Giommoni, Tommaso, A Machine Learning Approach to Analyze and Support Anti-Corruption Policy (June 17, 2021).pdf "Articulos/Tecnologia en Corrupcion/Detecci\303\263n de contratos p\303\272blicos susceptibles a adiciones.pdf" Documentos Enviados/.DS_Store PROMPTS CHATGPT.docx logs/upload_log_2025-09-14_10-30-45.txt logs/upload_log_2025-09-20_12-16-53.txt 
+[main c4efe88] Actualizacion nombres y tarea banco de citas final antes de empezar los anteceedentes | 2025-09-20 12:16:53 | Changed: .DS_Store Antecedentes/.DS_Store Antecedentes/Documentos Antecedentes Antecedentes/Formato Tarea Banco de Citas.docx Antecedentes/SIP_Tarea_Banco_De_Citas.docx Antecedentes/~$P_Tarea_Banco_De_Citas.docx Antecedentes/~$rea Banco de Citas.docx Articulos/.DS_Store Articulos/Corrupcion en Contratacion/.DS_Store "Articulos/Corrupcion en Contratacion/D\303\255az Jimenez, M C (2020) Limitaciones a la competencia en procesos de contratacion publica de vias primarias Universidad de los Andes, Tesis de Maestria.pdf" Articulos/Data Analysis/.DS_Store Articulos/Data Analysis/Effendi, F, & Chattopadhyay, A (2024) Privacy-Preserving Graph-Based Machine Learning with Fully Homomorphic Encryption for Collaborative Anti Money Laundering.pdf Articulos/Tecnologia en Corrupcion/.DS_Store Articulos/Tecnologia en Corrupcion/Ash, Elliott and Galletta, Sergio and Giommoni, Tommaso, A Machine Learning Approach to Analyze and Support Anti-Corruption Policy (June 17, 2021).pdf "Articulos/Tecnologia en Corrupcion/Detecci\303\263n de contratos p\303\272blicos susceptibles a adiciones.pdf" Documentos Enviados/.DS_Store PROMPTS CHATGPT.docx logs/upload_log_2025-09-14_10-30-45.txt logs/upload_log_2025-09-20_12-16-53.txt
+ 19 files changed, 97 insertions(+)
+ rename Antecedentes/{Antecedentes alias => Documentos Antecedentes} (100%)
+ create mode 100644 Antecedentes/Formato Tarea Banco de Citas.docx
+ create mode 100644 Antecedentes/SIP_Tarea_Banco_De_Citas.docx
+ create mode 100644 Antecedentes/~$P_Tarea_Banco_De_Citas.docx
+ create mode 100644 Antecedentes/~$rea Banco de Citas.docx
+ create mode 100644 "Articulos/Corrupcion en Contratacion/D\303\255az Jimenez, M C (2020) Limitaciones a la competencia en procesos de contratacion publica de vias primarias Universidad de los Andes, Tesis de Maestria.pdf"
+ create mode 100644 Articulos/Data Analysis/Effendi, F, & Chattopadhyay, A (2024) Privacy-Preserving Graph-Based Machine Learning with Fully Homomorphic Encryption for Collaborative Anti Money Laundering.pdf
+ create mode 100644 Articulos/Tecnologia en Corrupcion/Ash, Elliott and Galletta, Sergio and Giommoni, Tommaso, A Machine Learning Approach to Analyze and Support Anti-Corruption Policy (June 17, 2021).pdf
+ create mode 100644 "Articulos/Tecnologia en Corrupcion/Detecci\303\263n de contratos p\303\272blicos susceptibles a adiciones.pdf"
+ create mode 100644 PROMPTS CHATGPT.docx
+ create mode 100644 logs/upload_log_2025-09-20_12-16-53.txt
+To https://github.com/SimonBoteroA-Student/SIP.git
+   61ea02f..c4efe88  main -> main
+✅ Upload successful!
+📜 Commit hash: c4efe8874719f726fd1741ede99944a017441570
+🗂 Logs saved as:
+   - /Users/simonb/Desktop/SIP/logs/upload_log_2025-09-20_12-16-53.txt
+   - /Users/simonb/SIP_COPY/Logs/github_log_2025-09-20_12-16-53.txt
