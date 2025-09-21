@@ -4,3 +4,21 @@ Folder: /Users/simonb/Desktop/SIP
 Log ID: 2025-09-21_17-09-26
 -------------------------
 📦 Running: git add .
+add '.DS_Store'
+add 'Antecedentes/SIP_Antecedentes.docx'
+add 'logs/upload_log_2025-09-20_22-20-07.txt'
+add 'logs/upload_log_2025-09-21_17-09-26.txt'
+Do you want to add a custom commit message? (y/n)
+Enter your custom commit message:
+📝 Committing with message:
+antecedentes despues del sabado de trabajo donde los titos | 2025-09-21 17:09:26 | Changed: .DS_Store Antecedentes/SIP_Antecedentes.docx logs/upload_log_2025-09-20_22-20-07.txt logs/upload_log_2025-09-21_17-09-26.txt 
+[main 83d1754] antecedentes despues del sabado de trabajo donde los titos | 2025-09-21 17:09:26 | Changed: .DS_Store Antecedentes/SIP_Antecedentes.docx logs/upload_log_2025-09-20_22-20-07.txt logs/upload_log_2025-09-21_17-09-26.txt
+ 4 files changed, 44 insertions(+)
+ create mode 100644 logs/upload_log_2025-09-21_17-09-26.txt
+To https://github.com/SimonBoteroA-Student/SIP.git
+   f891bea..83d1754  main -> main
+✅ Upload successful!
+📜 Commit hash: 83d175417de5d872c6296e87d9abb3611dac6285
+🗂 Logs saved as:
+   - /Users/simonb/Desktop/SIP/logs/upload_log_2025-09-21_17-09-26.txt
+   - /Users/simonb/SIP_COPY/Logs/github_log_2025-09-21_17-09-26.txt
