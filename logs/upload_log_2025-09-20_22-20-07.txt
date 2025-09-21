@@ -4,3 +4,41 @@ Folder: /Users/simonb/Desktop/SIP
 Log ID: 2025-09-20_22-20-07
 -------------------------
 📦 Running: git add .
+add '.DS_Store'
+remove 'Antecedentes/~$P_Tarea_Banco_De_Citas.docx'
+add 'Articulos/.DS_Store'
+add 'Articulos/Data Analysis/.DS_Store'
+add 'Articulos/Tecnologia en Corrupcion/.DS_Store'
+add 'logs/upload_log_2025-09-20_12-16-53.txt'
+add 'Antecedentes/SIP_Antecedentes.docx'
+add 'Articulos/Corrupcion en Contratacion/Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC), Alcaldía Mayor de Bogotá. (2015). Tipologías de Corrupción. Oficina de las Naciones Unidas contra la Droga y el Delito.pdf'
+add 'Articulos/Data Analysis/Hinton, G. E., Osindero, S., & Teh, Y.-W. (2006). A Fast Learning Algorithm for Deep Belief Nets. Neural Computation, 18, 1527-1554.pdf'
+add 'Articulos/Data Analysis/Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet Classification with Deep Convolutional Neural Networks. Neural Information Processing Systems Conference. Toronto- University of Toronto.pdf'
+add 'Articulos/Tecnologia en Corrupcion/Colonnelli, E., Gallego, J., & Prem, M. (2020). What Predicts Corruption? SSRN.pdf'
+add 'Articulos/Tecnologia en Corrupcion/Kwaku Setor, T., Senyo, P., & Addo, A. (2021). Do digital payment transactions reduce corruption? Evidence from developing countries . Telematics and Informatics, 60..pdf'
+add 'Ejemplos/El proceso constituyente de 1990-1991 en Colombia, y su impacto en el funcionamiento de  la Procuraduría General de la Nación.pdf'
+add 'Ejemplos/The Use of CRISPR-Cas9 Genetic Modification as a Treatment for Huntington’s Disease.pdf'
+add 'logs/upload_log_2025-09-20_22-20-07.txt'
+Do you want to add a custom commit message? (y/n)
+Enter your custom commit message:
+📝 Committing with message:
+Primer dia trabajo antecedentes, folder de ejemplos | 2025-09-20 22:20:07 | Changed: .DS_Store Antecedentes/SIP_Antecedentes.docx Antecedentes/~$P_Tarea_Banco_De_Citas.docx Articulos/.DS_Store "Articulos/Corrupcion en Contratacion/Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC), Alcald\303\255a Mayor de Bogot\303\241. (2015). Tipolog\303\255as de Corrupci\303\263n. Oficina de las Naciones Unidas contra la Droga y el Delito.pdf" Articulos/Data Analysis/.DS_Store Articulos/Data Analysis/Hinton, G. E., Osindero, S., & Teh, Y.-W. (2006). A Fast Learning Algorithm for Deep Belief Nets. Neural Computation, 18, 1527-1554.pdf Articulos/Data Analysis/Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet Classification with Deep Convolutional Neural Networks. Neural Information Processing Systems Conference. Toronto- University of Toronto.pdf Articulos/Tecnologia en Corrupcion/.DS_Store Articulos/Tecnologia en Corrupcion/Colonnelli, E., Gallego, J., & Prem, M. (2020). What Predicts Corruption? SSRN.pdf Articulos/Tecnologia en Corrupcion/Kwaku Setor, T., Senyo, P., & Addo, A. (2021). Do digital payment transactions reduce corruption? Evidence from developing countries . Telematics and Informatics, 60..pdf "Ejemplos/El proceso constituyente de 1990-1991 en Colombia, y su impacto en el funcionamiento de  la Procuradur\303\255a General de la Naci\303\263n.pdf" "Ejemplos/The Use of CRISPR-Cas9 Genetic Modification as a Treatment for Huntington\342\200\231s Disease.pdf" logs/upload_log_2025-09-20_12-16-53.txt logs/upload_log_2025-09-20_22-20-07.txt 
+[main f891bea] Primer dia trabajo antecedentes, folder de ejemplos | 2025-09-20 22:20:07 | Changed: .DS_Store Antecedentes/SIP_Antecedentes.docx Antecedentes/~$P_Tarea_Banco_De_Citas.docx Articulos/.DS_Store "Articulos/Corrupcion en Contratacion/Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC), Alcald\303\255a Mayor de Bogot\303\241. (2015). Tipolog\303\255as de Corrupci\303\263n. Oficina de las Naciones Unidas contra la Droga y el Delito.pdf" Articulos/Data Analysis/.DS_Store Articulos/Data Analysis/Hinton, G. E., Osindero, S., & Teh, Y.-W. (2006). A Fast Learning Algorithm for Deep Belief Nets. Neural Computation, 18, 1527-1554.pdf Articulos/Data Analysis/Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet Classification with Deep Convolutional Neural Networks. Neural Information Processing Systems Conference. Toronto- University of Toronto.pdf Articulos/Tecnologia en Corrupcion/.DS_Store Articulos/Tecnologia en Corrupcion/Colonnelli, E., Gallego, J., & Prem, M. (2020). What Predicts Corruption? SSRN.pdf Articulos/Tecnologia en Corrupcion/Kwaku Setor, T., Senyo, P., & Addo, A. (2021). Do digital payment transactions reduce corruption? Evidence from developing countries . Telematics and Informatics, 60..pdf "Ejemplos/El proceso constituyente de 1990-1991 en Colombia, y su impacto en el funcionamiento de  la Procuradur\303\255a General de la Naci\303\263n.pdf" "Ejemplos/The Use of CRISPR-Cas9 Genetic Modification as a Treatment for Huntington\342\200\231s Disease.pdf" logs/upload_log_2025-09-20_12-16-53.txt logs/upload_log_2025-09-20_22-20-07.txt
+ 15 files changed, 23631 insertions(+)
+ create mode 100644 Antecedentes/SIP_Antecedentes.docx
+ delete mode 100644 Antecedentes/~$P_Tarea_Banco_De_Citas.docx
+ create mode 100644 "Articulos/Corrupcion en Contratacion/Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC), Alcald\303\255a Mayor de Bogot\303\241. (2015). Tipolog\303\255as de Corrupci\303\263n. Oficina de las Naciones Unidas contra la Droga y el Delito.pdf"
+ create mode 100644 Articulos/Data Analysis/Hinton, G. E., Osindero, S., & Teh, Y.-W. (2006). A Fast Learning Algorithm for Deep Belief Nets. Neural Computation, 18, 1527-1554.pdf
+ create mode 100644 Articulos/Data Analysis/Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet Classification with Deep Convolutional Neural Networks. Neural Information Processing Systems Conference. Toronto- University of Toronto.pdf
+ create mode 100644 Articulos/Tecnologia en Corrupcion/Colonnelli, E., Gallego, J., & Prem, M. (2020). What Predicts Corruption? SSRN.pdf
+ create mode 100644 Articulos/Tecnologia en Corrupcion/Kwaku Setor, T., Senyo, P., & Addo, A. (2021). Do digital payment transactions reduce corruption? Evidence from developing countries . Telematics and Informatics, 60..pdf
+ create mode 100644 "Ejemplos/El proceso constituyente de 1990-1991 en Colombia, y su impacto en el funcionamiento de  la Procuradur\303\255a General de la Naci\303\263n.pdf"
+ create mode 100644 "Ejemplos/The Use of CRISPR-Cas9 Genetic Modification as a Treatment for Huntington\342\200\231s Disease.pdf"
+ create mode 100644 logs/upload_log_2025-09-20_22-20-07.txt
+To https://github.com/SimonBoteroA-Student/SIP.git
+   c4efe88..f891bea  main -> main
+✅ Upload successful!
+📜 Commit hash: f891bea6dd09038eb7094117acc130e42dc9c66c
+🗂 Logs saved as:
+   - /Users/simonb/Desktop/SIP/logs/upload_log_2025-09-20_22-20-07.txt
+   - /Users/simonb/SIP_COPY/Logs/github_log_2025-09-20_22-20-07.txt
